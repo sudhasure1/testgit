@@ -1,2 +1,2 @@
 hello world
-this friday days commit
+this is end of commit 
